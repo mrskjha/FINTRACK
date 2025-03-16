@@ -25,6 +25,10 @@ This project is a **technology-driven financial management platform** that integ
 - Automated tracking of investments and financial trends.
 
 ## Technologies & Tools
+### **Frontend & Backend**
+- Next.js - Used for Frontend
+- Node.js - Used for Backend
+- PostgreSQL - Used for Database
 ### **Artificial Intelligence & Machine Learning**
 - TensorFlow / Scikit-learn – Predictive analytics, financial risk assessment, and expense tracking.
 - OpenAI GPT / Rasa – AI-powered financial chatbots for real-time advisory.
